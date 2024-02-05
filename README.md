@@ -2,7 +2,7 @@
 
 Ce projet portait sur le site portail b2b de l'entreprise, l’objectif était de permettre à des entreprises de se connecter ou créer un compte sur ce domaine, après une inscription réussie, le client B2B sera redirigé vers la page principale, où il pourra consulter la liste des prix B2B. De plus, il trouvera la section contact qui le permet d'envoyer un mail qui lui permettra de réaliser une commande pour son entreprise.
  
-Pour ce faire, nous avions à disposition un MCD de la base de données, un schéma de l’attente ainsi qu’une liste de cas d’utilisations. Un dictionnaire de données au format SQL était également fourni
+Pour ce faire, nous avions à disposition  la base de données, ainsi que des comptes de test dans la base de données.
 
 ## Getting Started
 
